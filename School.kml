@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>School</name>
+    <NetworkLink>
+      <name>vMaker-map</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1DRf53ofZLPx2EstkBPkaH1VL6MZKYRE&lid=ZSMxLhdlWzE]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
