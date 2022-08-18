@@ -1,0 +1,37 @@
+一、Google Maps API 每個月的免費額度
+
+每月免費額度200美金
+
+Maps JavaScript API 換算每月可免費載入
+
+「28000次!」「28000次!」「28000次!」
+
+二、放置多個標記
+
+Google Map 自製地圖 https://www.google.com.tw/intl/zh-TW/maps/about/mymaps/
+
+KML檔案格式
+地址                          名稱        聯絡電話            負責人     營業時間
+宜蘭縣礁溪鄉林美村林尾路160號  佛光大學     03-9871000轉25321   邱毓峰     週一~週五早上八點到下午九點
+
+新北市土城區學府路一段241號    新北高工     02-2261-5427        姜禮德     週一~週五早上八點到下午九點
+
+新北市土城區學府路一段241號    華僑高中     02-29684131         邱森林     週一~週五早上八點到下午九點
+
+
+取得客製地圖KML的url 
+1.將google map 下載為KML檔
+2.KML連結必須是公開的網址，不能使用相對路徑進行連接
+3.使用上傳github 取得客製地圖KML的url
+
+
+參考文件:https://developers.google.com/maps/documentation/javascript/importing_data?hl=zh-tw#try-sample
+
+三、隱藏地圖上UI
+
+zoomControl: boolean
+mapTypeControl: boolean
+scaleControl: boolean
+streetViewControl: boolean
+rotateControl: boolean
+fullscreenControl: boolean
